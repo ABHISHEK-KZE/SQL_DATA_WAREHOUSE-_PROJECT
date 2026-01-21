@@ -42,7 +42,7 @@ Contain descriptive attributes (customer name, product category, etc).
 
 These are used to filter, group, and segment the data in reports.
 
-* `Data Mart(star_schema)` ![alt text](https://github.com/deepakshradha/SQL/blob/main/SQL%20Data%20Warehouse%20%26%20Analysis/docs/Data%20Mart.drawio.png)
+* `Data Mart(star_schema)` ![alt text](https://github.com/ABHISHEK-KZE/SQL_DATA_WAREHOUSE-_PROJECT/blob/main/docs/Data%20Mart.drawio.png/1.png?raw=true)
 
 * `Intregation Model` ![alt text](https://github.com/deepakshradha/SQL/blob/main/SQL%20Data%20Warehouse%20%26%20Analysis/docs/integration%20model.drawio.png) 
   
