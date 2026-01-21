@@ -23,7 +23,7 @@ The project utilizes a layered data architecture to ensure data quality, traceab
 
 * `Data_architechture` ![alt text](https://github.com/ABHISHEK-KZE/SQL_DATA_WAREHOUSE-_PROJECT/blob/main/docs/data_architecture.drawio.png/1.png)
 
-* `Data Flow` ![alt text](https://github.com/deepakshradha/SQL/blob/main/SQL%20Data%20Warehouse%20%26%20Analysis/docs/data%20flow%20diagram.drawio.png)
+* `Data Flow` ![alt text](https://github.com/ABHISHEK-KZE/SQL_DATA_WAREHOUSE-_PROJECT/blob/main/docs/data%20flow%20diagram.drawio.png/1.png?raw=true)
 
 
 ## ⭐️ Data Modeling: Star Schema
